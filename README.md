@@ -16,6 +16,8 @@ The goal is to transform a raw, chaotic online sales dataset into a mathematical
 ---
 
 ## 📂 Repository Structure
+
+```
 DecodeLabs-DS-Project1/
 │
 ├── data/
@@ -27,6 +29,7 @@ DecodeLabs-DS-Project1/
 │
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
@@ -64,6 +67,7 @@ DecodeLabs-DS-Project1/
 ---
 
 ## 📈 Results
+
 | Metric | Before | After |
 |---|---|---|
 | Shape | 1200 × 14 | 1200 × 30 |
@@ -79,3 +83,10 @@ DecodeLabs-DS-Project1/
 - Matplotlib, Seaborn
 - Pandera
 - Google Colab
+
+---
+
+## 👩‍💻 Author
+**Tharushi Navodya**
+BSc (Hons) Data Analytics — SLIIT
+[LinkedIn](https://www.linkedin.com/in/tharushi-navodya-90ab7b385) | [GitHub](https://github.com/IT24100546)
