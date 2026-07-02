@@ -84,9 +84,3 @@ DecodeLabs-DS-Project1/
 - Pandera
 - Google Colab
 
----
-
-## 👩‍💻 Author
-**Tharushi Navodya**
-BSc (Hons) Data Analytics — SLIIT
-[LinkedIn](https://www.linkedin.com/in/tharushi-navodya-90ab7b385) | [GitHub](https://github.com/IT24100546)
